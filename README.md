@@ -7,3 +7,16 @@
 - Unit Tester: Collective effort
 - Integration Tester: Taylor
 - Beta Test Organizer: Connor and Josh
+
+
+#### Ian's Responsibilities Paragraph
+- 
+
+#### Connor's Responsibilities Paragraph
+- 
+
+#### Taylor's Responsibilities Paragraph
+- 
+
+#### Josh's Responsibilities Paragraph
+- 
