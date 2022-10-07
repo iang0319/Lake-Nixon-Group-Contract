@@ -10,7 +10,7 @@
 
 
 #### Ian's Responsibilities Paragraph
-- 
+- As outlined above, I am going to design the GUI
 
 #### Connor's Responsibilities Paragraph
 - 
