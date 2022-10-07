@@ -1,9 +1,9 @@
 # Lake-Nixon-Group-Contract
 
-### Group Assignments
-- Task Manager 
-- Client Interfacer
-- GUI Designer
-- Unit Tester
-- Integration Tester
-- Beta Test Organizer
+### Group Responsibilities
+- Task Manager: Connor and Josh
+- Client Interfacer: Taylor and Connor
+- GUI Designer: Ian
+- Unit Tester: Collective effort
+- Integration Tester: Taylor
+- Beta Test Organizer: Connor and Josh
