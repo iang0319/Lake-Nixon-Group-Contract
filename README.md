@@ -10,7 +10,7 @@
 
 
 #### Ian's Responsibilities Paragraph
-- As outlined above, I am going to design the GUI
+- As outlined above, I am going to design the GUI. I know that the basic GUI will not take that long to design, so I will be able to help others out with the beginning process when needed. I am also going to design unit tests as I go to make the ending process much easier. I know that this is a very challenging process and I know that there might be struggle along the way. I need to be able to work with our members and understand when things are getting hard. Instead of gettting mad, I need to help them through the struggle
 
 #### Connor's Responsibilities Paragraph
 - I will help take the lead in creating and distributing tasks for our team as well as being the main communicator with our client throughout the entire process. I also will take a part of trying to test everything and be the main person to try and make sure everything works after something gets pushed to the repo. I will also make sure to do my unit testing for the pieces of code that I create. As a part of this team, I will be thoughtful and helpful for everyone. I understand that this is a long time commitment with this group and we need to have good communication. I will make sure to be flexible and helpful whenever I need to be and try to be the best group partner I can be.
